@@ -1,7 +1,7 @@
 {
-  "versionCode": 399,
-  "versionName": "3.9.9",
-  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v3.9.9/Binh_Auto_Control_V3.9.9.apk",
-  "changelog": "Tối ưu hiển thị.",
+  "versionCode": 402,
+  "versionName": "4.0.2",
+  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v4.0.2/Binh_Auto_Control_V4.0.2.apk",
+  "changelog": "Tối ưu hiển thị mã thiết bị.",
   "forceUpdate": false
 }
