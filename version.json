@@ -1,7 +1,7 @@
 {
-  "versionCode": 371,
-  "versionName": "3.7.1",
-  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v3.7.1/Binh_Auto_Control_V3.7.1.apk",
-  "changelog": "Tối ưu giao diện và sửa lỗi ổn định.",
+  "versionCode": 381,
+  "versionName": "3.8.1",
+  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v3.8.1/Binh_Auto_Control_V3.8.1.apk",
+  "changelog": "Tối ưu hiệu năng và sửa lỗi ổn định.",
   "forceUpdate": false
 }
