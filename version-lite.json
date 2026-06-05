@@ -1,1 +1,7 @@
-
+{
+  "versionCode": 471,
+  "versionName": "4.7.1",
+  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/lite-4.7.1/Binh_Auto_Control_Lite_V4.7.1.apk",
+  "changelog": "Cập nhật bản Lite.",
+  "forceUpdate": false
+}
