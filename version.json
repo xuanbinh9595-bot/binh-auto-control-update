@@ -1,7 +1,7 @@
 {
-  "versionCode": 473,
-  "versionName": "4.7.3",
-  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v4.7.3/Binh_Auto_Control_V4.7.3.apk",
-  "changelog": "Tối ưu giao diện điều khiển.",
+  "versionCode": 596,
+  "versionName": "5.9.6",
+  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v5.9.6/Binh_Auto_Control_V5.9.6.apk",
+  "changelog": "Cập nhật giao diện màn kích hoạt bản quyền.\nTối ưu bố cục QR thanh toán và khung lưu ý.\nCải thiện hiển thị tiếng Việt và trải nghiệm nhập mã kích hoạt.",
   "forceUpdate": false
 }
