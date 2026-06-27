@@ -1,7 +1,7 @@
 {
-  "versionCode": 471,
-  "versionName": "4.7.1",
-  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/lite-4.7.1/Binh_Auto_Control_Lite_V4.7.1.apk",
-  "changelog": "Cập nhật bản Lite.",
+  "versionCode": 603,
+  "versionName": "V6.0.3",
+  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/V6.0.3/BinhAutoControl_Lite_V6.0.3.apk",
+  "changelog": "Đổi quy ước phiên bản sang V6.0.X.\nCập nhật tên APK Lite theo mẫu mới.\nGiữ nguyên logic ứng dụng.",
   "forceUpdate": false
 }
