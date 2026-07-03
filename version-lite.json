@@ -1,7 +1,9 @@
-{
-  "versionCode": 603,
-  "versionName": "V6.0.3",
-  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v6.0.3/BinhAutoControl_Lite_V6.0.3.apk",
-  "changelog": "Đổi quy ước phiên bản sang V6.0.X.\nCập nhật tên APK Lite theo mẫu mới.\nGiữ nguyên logic ứng dụng.",
-  "forceUpdate": false
-}
+[
+  {
+    "versionCode": 638,
+    "versionName": "V6.3.8",
+    "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v6.3.8/Binh_Auto_Control_Lite_V6.3.8.apk",
+    "changelog": "Cập nhật giao diện Lite.\nThêm tải nhạc khách hàng từ loichao.com.\nThêm chọn nhạc đã tải và quản lý file nhạc.\nCải thiện hướng dẫn thiết lập lần đầu.\nSửa tương thích Android 5.0+.\nCải thiện xử lý bàn phím và focus.",
+    "forceUpdate": false
+  }
+]
