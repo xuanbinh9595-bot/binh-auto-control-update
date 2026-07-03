@@ -1,7 +1,7 @@
 {
   "versionCode": 640,
   "versionName": "6.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/xuanbinh9595-bot/binh-auto-control-update/refs/heads/main/Binh_Auto_Control_V6.4.0.apk",
+  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/V6.4.0/Binh_Auto_Control_V6.4.0.apk",
   "changelog": "Doi mau tab Loi chao va Cai dat de noi bat hon tren giao dien toi.",
   "forceUpdate": false
 }
