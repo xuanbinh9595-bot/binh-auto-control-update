@@ -1,7 +1,7 @@
 {
-  "versionCode": 639,
-  "versionName": "6.3.9",
-  "apkUrl": "https://raw.githubusercontent.com/xuanbinh9595-bot/binh-auto-control-update/refs/heads/main/Binh_Auto_Control_V6.3.9.apk",
-  "changelog": "Cai thien danh sach nhac: co the vuot de xem toan bo file MP3 trong man hinh chon nhac va quan ly file nhac.",
+  "versionCode": 640,
+  "versionName": "6.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/xuanbinh9595-bot/binh-auto-control-update/refs/heads/main/Binh_Auto_Control_V6.4.0.apk",
+  "changelog": "Doi mau tab Loi chao va Cai dat de noi bat hon tren giao dien toi.",
   "forceUpdate": false
 }
