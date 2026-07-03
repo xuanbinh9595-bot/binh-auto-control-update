@@ -1,7 +1,7 @@
 {
-  "versionCode": 596,
-  "versionName": "5.9.6",
-  "apkUrl": "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/v5.9.6/Binh_Auto_Control_V5.9.6.apk",
-  "changelog": "Cập nhật giao diện màn kích hoạt bản quyền.\nTối ưu bố cục QR thanh toán và khung lưu ý.\nCải thiện hiển thị tiếng Việt và trải nghiệm nhập mã kích hoạt.",
+  "versionCode": 639,
+  "versionName": "6.3.9",
+  "apkUrl": "https://raw.githubusercontent.com/xuanbinh9595-bot/binh-auto-control-update/refs/heads/main/Binh_Auto_Control_V6.3.9.apk",
+  "changelog": "Cai thien danh sach nhac: co the vuot de xem toan bo file MP3 trong man hinh chon nhac va quan ly file nhac.",
   "forceUpdate": false
 }
