@@ -1,7 +1,7 @@
 {
-    "versionCode":  692,
-    "versionName":  "6.9.0",
-    "apkUrl":  "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/V6.9.0/Binh_Auto_Control_V6.9.0.apk",
-    "changelog":  "Thêm nút CÀI ĐẶT: tải xong bấm một nút là cài bản mới, không cần tìm file trong Download.",
+    "versionCode":  693,
+    "versionName":  "6.9.1",
+    "apkUrl":  "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/V6.9.1/Binh_Auto_Control_V6.9.1.apk",
+    "changelog":  "Sắp xếp lại Cài đặt: thêm mục Thông tin ứng dụng (phiên bản, kiểm tra cập nhật); phần hỗ trợ chuyển vào mục Ứng dụng.",
     "forceUpdate":  false
 }
