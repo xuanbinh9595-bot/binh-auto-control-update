@@ -1,1 +1,7 @@
-
+{
+    "versionCode":  691,
+    "versionName":  "6.8.9",
+    "apkUrl":  "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/V6.8.9/Binh_Auto_Control_V6.8.9.apk",
+    "changelog":  "Cập nhật giúp app chạy ổn định hơn.",
+    "forceUpdate":  false
+}
