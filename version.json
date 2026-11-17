@@ -1,7 +1,7 @@
 {
-    "versionCode":  693,
-    "versionName":  "6.9.1",
-    "apkUrl":  "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/V6.9.1/Binh_Auto_Control_V6.9.1.apk",
-    "changelog":  "Sắp xếp lại Cài đặt: thêm mục Thông tin ứng dụng (phiên bản, kiểm tra cập nhật); phần hỗ trợ chuyển vào mục Ứng dụng.",
+    "versionCode":  694,
+    "versionName":  "6.9.2",
+    "apkUrl":  "https://github.com/xuanbinh9595-bot/binh-auto-control-update/releases/download/V6.9.2/Binh_Auto_Control_V6.9.2.apk",
+    "changelog":  "Thanh toán đẹp hơn: báo \u0027Đã nhận thanh toán\u0027 ngay khi tiền về, rồi \u0027Kích hoạt thành công\u0027 với biểu tượng mới.",
     "forceUpdate":  false
 }
